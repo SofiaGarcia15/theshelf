@@ -1,0 +1,9 @@
+THE SHELF — Demo inicial
+
+1. Abre index.html en Chrome, Edge, Safari o Firefox.
+2. No necesita instalación ni servidor: HTML, CSS y JavaScript están en un único archivo.
+3. Los libros, reseñas, frases, personajes, perfil y publicaciones de demostración se guardan en localStorage del navegador.
+4. Los datos solo existen en ese navegador/dispositivo. No hay cuentas reales, sincronización entre dispositivos ni comunidad online compartida todavía.
+5. La tipografía de Google Fonts puede necesitar conexión a internet; el sitio sigue funcionando si no carga.
+
+Para convertirlo en una comunidad real multiusuario se necesitaría después un backend y autenticación, moderación y reglas de privacidad.
